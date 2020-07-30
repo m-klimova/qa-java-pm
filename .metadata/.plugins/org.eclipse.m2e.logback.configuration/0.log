@@ -1,0 +1,15 @@
+2020-07-30 16:27:34,808 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-30 16:29:46,667 [Worker-10: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PeopleManagement:PeopleManagement:0.0.1-SNAPSHOT @ C:\workspace\PeopleManagement\pom.xml.
+2020-07-30 16:29:48,972 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-30 16:29:48,993 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\PeopleManagement\src\main\resources
+2020-07-30 16:29:49,002 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-30 16:29:49,022 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\PeopleManagement\src\test\resources
+2020-07-30 16:29:49,033 [Worker-10: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PeopleManagement/src
+2020-07-30 16:29:49,035 [Worker-10: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /PeopleManagement/src/test/java because it overlaps with /PeopleManagement/src
+2020-07-30 16:29:49,516 [Worker-10: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-30 16:29:50,777 [Worker-10: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PeopleManagement:PeopleManagement:0.0.1-SNAPSHOT @ C:\workspace\PeopleManagement\pom.xml.
+2020-07-30 16:29:52,221 [Worker-10: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PeopleManagement/src
+2020-07-30 16:29:52,222 [Worker-10: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /PeopleManagement/src/test/java because it overlaps with /PeopleManagement/src
+2020-07-30 16:29:52,395 [Worker-10: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-07-30 16:29:52,869 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-30 16:29:52,883 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\PeopleManagement\src\main\resources
